@@ -1,3 +1,5 @@
-| Assignment    | Solution Video           
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| Minesweeper  | https://d3dyfaf3iutrxo.cloudfront.net/video/course/video_session/lecture-uv5piugfnz3e-0af692a3a01140bb8a86347cd9c12f74.mp4
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
